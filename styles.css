@@ -1,0 +1,52 @@
+.centereddiv {
+    margin: auto;
+    text-align: center;
+}
+
+.suse-yeet {
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 64px;
+  }
+  
+.flexspan {
+    display: flex;
+    justify-content: center;
+}
+
+ul, ol,
+li {
+    display:inline;
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    font-family: "SUSE", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 32px;
+
+}
+
+.stupidhr {
+    width: 50%;
+    height: 3px;
+    border: none;
+    background: black;
+}
+
+p {
+    font-family: "SUSE";
+    font-weight: 400;
+    font-size: 28px;
+
+}
+
+.paragraphwidth {
+    width: 45%;
+    margin: auto;
+    text-align: center;
+
+}
